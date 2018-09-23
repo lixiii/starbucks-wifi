@@ -8,3 +8,5 @@ This repository includes the following resources:
 | ---- | ---- | ------- |
 | login.sh | Shell script | This script contains all the required cURL command and arguments for the login POST request. You will need to call this when you are signed out but connected to the wifi. |
 | autoLogin.js | NodeJS script | This NodeJS script **automatically** launches the login script at every 10 mins |
+
+*Note that you would need to connect to the wifi first before starting the programs*
